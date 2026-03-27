@@ -21,9 +21,9 @@
     "LinkDonwload": "https://media.githubusercontent.com/media/sempstybi-hub/Store/refs/heads/master/Labirint.rar",
     "UrlImg": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Labirint/Logo.png",
     "UrlImgBuner": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Labirint/Baner.png",
-    "Img1": null,
-    "Img2": null,
-    "Img3": null
+    "Img1": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Labirint/I1.png",
+    "Img2": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Labirint/I2.png",
+    "Img3": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Labirint/I3.png"
   },
     {
     "Id": 3,
