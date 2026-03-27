@@ -24,5 +24,18 @@
     "Img1": null,
     "Img2": null,
     "Img3": null
+  },
+    {
+    "Id": 3,
+    "Name": "Cafe cube",
+    "Description": null,
+    "SizeGame": 300,
+    "Version": "1.0",
+    "LinkDonwload": "https://media.githubusercontent.com/media/sempstybi-hub/Store/refs/heads/master/Cafe_Cube.rar",
+    "UrlImg": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Cafe_Cube/Logo.png",
+    "UrlImgBuner": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Cafe_Cube/Baner.png",
+    "Img1": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Cafe_Cube/I1.png",
+    "Img2": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Cafe_Cube/I2.png",
+    "Img3": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Cafe_Cube/I3.png"
   }
 ]
