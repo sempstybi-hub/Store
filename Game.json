@@ -2,7 +2,7 @@
   {
     "Id": 1,
     "Name": "The basement",
-    "Description": null,
+    "Description": "игра, где нужно выбираться из подвала, проходя мимо головоломок и врагов, при этом выживая",
     "SizeGame": 300,
     "Version": "1.0",
     "LinkDonwload": "https://media.githubusercontent.com/media/sempstybi-hub/Store/refs/heads/master/THE_Basement.rar",
@@ -15,7 +15,7 @@
   {
     "Id": 2,
     "Name": "Labirint",
-    "Description": null,
+    "Description": "LABIRINT — это игра, где нужно использовать мышь, чтобы пройти 5 уровней на каждом уровне с 5 уровнями и боссом.",
     "SizeGame": 300,
     "Version": "1.0",
     "LinkDonwload": "https://media.githubusercontent.com/media/sempstybi-hub/Store/refs/heads/master/Labirint.rar",
@@ -28,7 +28,7 @@
     {
     "Id": 3,
     "Name": "Cafe cube",
-    "Description": null,
+    "Description": "Игра, где вы играете роль молодого куба, работаете бариста и готовите кофе для других клубов",
     "SizeGame": 300,
     "Version": "1.0",
     "LinkDonwload": "https://media.githubusercontent.com/media/sempstybi-hub/Store/refs/heads/master/Cafe_Cube.rar",
