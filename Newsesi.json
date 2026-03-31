@@ -4,11 +4,5 @@
         "ImgNews" : "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/New/N1.png",
         "TitleNews" : "Обновление 1.5",
         "Newss" : "Добовление вкладки новостей"
-    },
-     {
-        "Id" : 2,
-        "ImgNews" : "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/New/N1.png",
-        "TitleNews" : "Катя",
-        "Newss" : "ты лучшая"
-     }
+    }
 ]
