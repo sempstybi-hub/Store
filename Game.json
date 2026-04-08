@@ -10,7 +10,12 @@
     "UrlImgBuner": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/The_basement/Baner.png",
     "Img1": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/The_basement/I1.png",
     "Img2": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/The_basement/I2.png",
-    "Img3": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/The_basement/I3.png"
+    "Img3": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/The_basement/I3.png",
+    "Systemss": "Windows 7, 8.1, 10, 11",
+    "Cpu": "Ryzen 5 5500 / Intel i5-10400",
+    "Gpu": "GTX 1060 (3ГБ видео памяти) / RX580",
+    "Mem": "4Гб",
+    "Storage": "182мб"
   },
   {
     "Id": 2,
@@ -23,7 +28,12 @@
     "UrlImgBuner": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Labirint/Baner.png",
     "Img1": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Labirint/I1.png",
     "Img2": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Labirint/I2.png",
-    "Img3": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Labirint/I3.png"
+    "Img3": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Labirint/I3.png",
+    "Systemss": "Windows 7, 8.1, 10, 11",
+    "Cpu": "AMD Ryzen 3 / INTEL i3",
+    "Gpu": "ну хз",
+    "Mem": "2гб",
+    "Storage": "133мб"
   },
     {
     "Id": 3,
@@ -36,6 +46,11 @@
     "UrlImgBuner": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Cafe_Cube/Baner.png",
     "Img1": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Cafe_Cube/I1.png",
     "Img2": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Cafe_Cube/I2.png",
-    "Img3": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Cafe_Cube/I3.png"
+    "Img3": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/Cafe_Cube/I3.png",
+    "Systemss": "Windows 7, 8.1, 10, 11",
+    "Cpu": "AMD Ryzen 3 / INTEL i3",
+    "Gpu": "GTX 1060 (3ГБ видео памяти) / RX580",
+    "Mem": "2гб",
+    "Storage": "138мб"
   }
 ]

@@ -10,5 +10,11 @@
         "ImgNews" : "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/New/N2.png",
         "TitleNews" : "Обновление 1.6",
         "Newss" : "Добовление вкладки настроек, а также различные темы"
+    },
+    {
+        "Id" : 3,
+        "ImgNews" : "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/New/N3.png",
+        "TitleNews" : "Обновление 1.7",
+        "Newss" : "Исправлены баги, также опять чучуть пределан UI/UX.\nДобовление настоящихсистемных требовоний"
     }
 ]
