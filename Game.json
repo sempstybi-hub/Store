@@ -55,5 +55,24 @@
     "Gpu": "GTX 1060 (3ГБ видео памяти) / RX580",
     "Mem": "2гб",
     "Storage": "138мб"
+  },
+    {
+    "Id": 4,
+    "Name": "Test",
+    "Type": "Alpha",
+    "Description": "Test",
+    "SizeGame": "0 мб",
+    "Version": "Ver: 0.0",
+    "LinkDonwload": "",
+    "UrlImg": "",
+    "UrlImgBuner": "",
+    "Img1": "",
+    "Img2": "",
+    "Img3": "",
+    "Systemss": "TEST",
+    "Cpu": "TEST",
+    "Gpu": "TEST",
+    "Mem": "TEST",
+    "Storage": "TEST"
   }
 ]
