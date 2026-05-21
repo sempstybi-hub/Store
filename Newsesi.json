@@ -16,5 +16,11 @@
         "ImgNews" : "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/New/N3.png",
         "TitleNews" : "Обновление 1.7",
         "Newss" : "Исправлены баги, также опять чучуть пределан UI/UX.\nДобовление настоящихсистемных требовоний"
+    },
+    {
+        "Id" : 4,
+        "ImgNews" : "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/New/N4.png",
+        "TitleNews" : "Обновление 1.8",
+        "Newss" : "Исправлены баги\nулучшение"
     }
 ]
