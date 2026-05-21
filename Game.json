@@ -43,7 +43,7 @@
     "Id": 3,
     "Name": "Cafe cube",
     "Type": "Demo",
-    "Relisetd": false,
+    "Relisetd": true,
     "Description": "Игра, где вы играете роль молодого куба, работаете бариста и готовите кофе для других клубов",
     "SizeGame": "138 мб",
     "Version": "Ver: 1.0",
