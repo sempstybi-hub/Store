@@ -58,5 +58,25 @@
     "Gpu": "GTX 1060 (3ГБ видео памяти) / RX580",
     "Mem": "2гб",
     "Storage": "138мб"
+  },
+    {
+    "Id": 4,
+    "Name": "The Route",
+    "Type": "Demo",
+    "Relisetd": false,
+    "Description": "Помогите людям сорентироваться на остановках и сделайте удобную навигацию за время",
+    "SizeGame": "--- мб",
+    "Version": "Ver: ---",
+    "LinkDonwload": "",
+    "UrlImg": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/The_Route/Logo.png",
+    "UrlImgBuner": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/The_Route/Baner.png",
+    "Img1": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/The_Route/I1.png",
+    "Img2": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/The_Route/I2.png",
+    "Img3": "https://raw.githubusercontent.com/sempstybi-hub/Store/refs/heads/main/Db/The_Route/I3.png",
+    "Systemss": "Windows 7, 8.1, 10, 11",
+    "Cpu": "---",
+    "Gpu": "---",
+    "Mem": "---",
+    "Storage": "---"
   }
 ]
